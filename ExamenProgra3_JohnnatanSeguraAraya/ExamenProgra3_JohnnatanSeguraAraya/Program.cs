@@ -9,7 +9,8 @@ namespace ExamenProgra3_JohnnatanSeguraAraya
     class Program
     {
         static void Main(string[] args)
-        {
+        {    
+           
         }
     }
 }
